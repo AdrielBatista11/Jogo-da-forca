@@ -1,4 +1,4 @@
-# 🎮 Jogo da Forca - Desafio Java POO (DIO)
+# 🎮 Jogo da Forca
 
 Este projeto foi desenvolvido como parte do curso de Java da Digital Innovation One (DIO), com o objetivo de aplicar os conceitos da Programação Orientada a Objetos (POO) na criação de um jogo da forca interativo via console.
 
